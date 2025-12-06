@@ -1,6 +1,25 @@
 # SeloBebidas Updates
 
 
+## v1.0.8 - 06/12/2025 01:48
+
+### Novidades
+- Implementa AdminView para painel administrativo
+- rastreamento de selos
+- gestão de usuários e processamento de notas fiscais
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.0.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.8.zip.001)
+- [SeloBebidasClient_v1.0.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.8.zip.002)
+
+**Servidor**
+- [SeloBebidasServer_v1.0.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.8.zip.001)
+- [SeloBebidasServer_v1.0.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.8.zip.002)
+
+---
+
 ## v1.0.7 - 06/12/2025 00:43
 
 ### Novidades
