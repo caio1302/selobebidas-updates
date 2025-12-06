@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.9",
+  "latest_version": "1.10.0",
   "client_parts": [
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.9.zip.001",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.9.zip.002"
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.0.zip.001",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.0.zip.002"
   ],
   "server_parts": [
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.9.zip.001",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.9.zip.002"
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.0.zip.001",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.0.zip.002"
   ]
 }
