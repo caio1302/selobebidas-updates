@@ -1,6 +1,23 @@
 # SeloBebidas Updates
 
 
+## v1.0.9 - 06/12/2025 09:11
+
+### Novidades
+- Ajuste no Grid da aba de rastreio.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.0.9.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.9.zip.001)
+- [SeloBebidasClient_v1.0.9.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.0.9.zip.002)
+
+**Servidor**
+- [SeloBebidasServer_v1.0.9.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.9.zip.001)
+- [SeloBebidasServer_v1.0.9.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.0.9.zip.002)
+
+---
+
 ## v1.0.8 - 06/12/2025 01:48
 
 ### Novidades
