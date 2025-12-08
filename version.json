@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.10.3",
+  "latest_version": "1.10.6",
   "client_parts": [
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.001",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.002",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.003",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.004",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.005",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.3.zip.006"
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.001",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.002",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.003",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.004",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.005",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.6.zip.006"
   ],
   "server_parts": [
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.3.zip.001",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.3.zip.002",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.3.zip.003",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.3.zip.004",
-    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.3.zip.005"
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.6.zip.001",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.6.zip.002",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.6.zip.003",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.6.zip.004",
+    "https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.6.zip.005"
   ]
 }
