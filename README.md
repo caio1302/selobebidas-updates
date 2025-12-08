@@ -1,6 +1,27 @@
 # SeloBebidas Updates
 
 
+## v1.10.1 - 07/12/2025 23:07
+
+### Novidades
+- Melhorias na tela de rastreio de itens.
+- Adicionado filtro de lote na lista de rastreio.
+- Melhorias na importação de notas fiscais.
+- Permitir conferência de itens e numero de lote antes de importar os itens da NFe.
+- Permite adicionar itens avulsos sem necessidade de importar um XML.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.10.1.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.1.zip.001)
+- [SeloBebidasClient_v1.10.1.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.1.zip.002)
+
+**Servidor**
+- [SeloBebidasServer_v1.10.1.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.1.zip.001)
+- [SeloBebidasServer_v1.10.1.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.1.zip.002)
+
+---
+
 ## v1.10.0 - 06/12/2025 09:39
 
 ### Novidades
