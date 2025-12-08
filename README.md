@@ -1,6 +1,30 @@
 # SeloBebidas Updates
 
 
+## v1.10.2 - 07/12/2025 23:27
+
+### Novidades
+- Atualização de manutenção.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.10.2.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.001)
+- [SeloBebidasClient_v1.10.2.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.002)
+- [SeloBebidasClient_v1.10.2.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.003)
+- [SeloBebidasClient_v1.10.2.zip.004](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.004)
+- [SeloBebidasClient_v1.10.2.zip.005](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.005)
+- [SeloBebidasClient_v1.10.2.zip.006](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.2.zip.006)
+
+**Servidor**
+- [SeloBebidasServer_v1.10.2.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.2.zip.001)
+- [SeloBebidasServer_v1.10.2.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.2.zip.002)
+- [SeloBebidasServer_v1.10.2.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.2.zip.003)
+- [SeloBebidasServer_v1.10.2.zip.004](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.2.zip.004)
+- [SeloBebidasServer_v1.10.2.zip.005](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.2.zip.005)
+
+---
+
 ## v1.10.1 - 07/12/2025 23:07
 
 ### Novidades
