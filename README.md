@@ -1,6 +1,30 @@
 # SeloBebidas Updates
 
 
+## v1.10.8 - 11/12/2025 14:15
+
+### Novidades
+- Atualização de telemetria e verificação de usuários online no PDV.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.10.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.001)
+- [SeloBebidasClient_v1.10.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.002)
+- [SeloBebidasClient_v1.10.8.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.003)
+- [SeloBebidasClient_v1.10.8.zip.004](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.004)
+- [SeloBebidasClient_v1.10.8.zip.005](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.005)
+- [SeloBebidasClient_v1.10.8.zip.006](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.10.8.zip.006)
+
+**Servidor**
+- [SeloBebidasServer_v1.10.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.8.zip.001)
+- [SeloBebidasServer_v1.10.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.8.zip.002)
+- [SeloBebidasServer_v1.10.8.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.8.zip.003)
+- [SeloBebidasServer_v1.10.8.zip.004](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.8.zip.004)
+- [SeloBebidasServer_v1.10.8.zip.005](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.10.8.zip.005)
+
+---
+
 ## v1.10.7 - 09/12/2025 23:47
 
 ### Novidades
