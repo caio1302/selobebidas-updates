@@ -1,6 +1,23 @@
 # SeloBebidas Updates
 
 
+## v1.11.2 - 17/12/2025 16:32
+
+### Novidades
+- Implementa a estrutura principal da API FastAPI com middleware de log, autenticação e rotas PDV.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.11.2.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.2.zip.001)
+- [SeloBebidasClient_v1.11.2.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.2.zip.002)
+
+**Servidor**
+- [SeloBebidasServer_v1.11.2.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.2.zip.001)
+- [SeloBebidasServer_v1.11.2.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.2.zip.002)
+
+---
+
 ## v1.11.1 - 11/12/2025 16:29
 
 ### Novidades
