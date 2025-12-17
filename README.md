@@ -1,6 +1,23 @@
 # SeloBebidas Updates
 
 
+## v1.11.3 - 17/12/2025 17:01
+
+### Novidades
+- Implementa nova API FastAPI com autenticação e telemetria, e aprimora a exibição do histórico de versões no cliente.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.11.3.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.3.zip.001)
+- [SeloBebidasClient_v1.11.3.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.3.zip.002)
+
+**Servidor**
+- [SeloBebidasServer_v1.11.3.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.3.zip.001)
+- [SeloBebidasServer_v1.11.3.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.3.zip.002)
+
+---
+
 ## v1.11.2 - 17/12/2025 16:32
 
 ### Novidades
