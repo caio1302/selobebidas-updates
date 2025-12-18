@@ -1,6 +1,5 @@
 # SeloBebidas Updates
 
-
 ## v1.11.5 - 18/12/2025 03:31
 
 ### Novidades
@@ -23,4 +22,3 @@
 - [SeloBebidasServer_v1.11.5.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.5.zip.002)
 
 ---
-
