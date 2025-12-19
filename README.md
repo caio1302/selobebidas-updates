@@ -1,6 +1,25 @@
 # SeloBebidas Updates
 
 
+## v1.11.8 - 18/12/2025 20:55
+
+### Novidades
+- **Nova Funcionalidade:** Verificação automática de atualizações no servidor API.
+- **Refatoração:** Supressão de mensagens automáticas de telemetria no console do servidor.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.11.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.8.zip.001)
+- [SeloBebidasClient_v1.11.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.8.zip.002)
+- [SeloBebidasClient_v1.11.8.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.8.zip.003)
+
+**Servidor**
+- [SeloBebidasServer_v1.11.8.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.8.zip.001)
+- [SeloBebidasServer_v1.11.8.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.8.zip.002)
+
+---
+
 ## v1.11.7 - 18/12/2025 05:29
 
 ### Novidades
