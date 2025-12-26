@@ -1,6 +1,25 @@
 # SeloBebidas Updates
 
 
+## v1.11.9 - 26/12/2025 13:50
+
+### Novidades
+- CORREÇÃO VISUAL: Ajuste no módulo de impressão para quebrar automaticamente o número do cupom em múltiplas linhas, evitando cortes na margem do papel.
+- CORREÇÃO DE BUG: Remoção de limitação legada no servidor que truncava números de cupom maiores que 40 caracteres; ajustado para 60 caracteres conforme o banco de dados.
+
+### Downloads
+
+**Cliente**
+- [SeloBebidasClient_v1.11.9.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.9.zip.001)
+- [SeloBebidasClient_v1.11.9.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.9.zip.002)
+- [SeloBebidasClient_v1.11.9.zip.003](https://caio1302.github.io/selobebidas-updates/SeloBebidasClient_v1.11.9.zip.003)
+
+**Servidor**
+- [SeloBebidasServer_v1.11.9.zip.001](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.9.zip.001)
+- [SeloBebidasServer_v1.11.9.zip.002](https://caio1302.github.io/selobebidas-updates/SeloBebidasServer_v1.11.9.zip.002)
+
+---
+
 ## v1.11.8 - 18/12/2025 20:55
 
 ### Novidades
